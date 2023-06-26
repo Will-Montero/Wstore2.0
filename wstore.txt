@@ -1,0 +1,24 @@
+                                     WSTORE
+
+Esta es una tienda que está comprometida con cada cliente a satisfacer sus necesidades y a brindar un ambiente ameno en sus ventas y compras, por eso esta app tiene como fin algunas funcionalidades:
+
+1.Registrar una cuenta a tu nombre
+2.Iniciar sesión 
+3.Ingresar en un panel de ayuda al cliente
+4.Mediante botones predecibles poder elejir si desea hacer una queja, reclamo online o en llamana
+5.Agregar una foto para su perfil de app
+6.Publicar productos que desee vender 
+7.Agregar a otras personas a su perfil de tienda
+8.Intercambiar mesanjes para poder acordar una compra/venta de productos 
+9.Calificar a el vendedor
+10.Poder agregar fotos y videos del producto a vender
+11.Calificar al vendedor por medio de estrellas
+12.Dejar una reseña sobre el producto adquirido en un a bandeja de comentarios
+13.Separar por categorias el producto a vender
+14.Decidiren  que fecha quiere que llegue su compra
+15.Hacer pagos por la app con entidades bancarias web
+16.Sección de paso a paso de como usar la app
+17.Solicitar un sobre pedido
+18.Usar el gps para saber desde que parte se compra y vende
+19.Agregar varias compras a un carrito de compra
+20.Cerrar sesión
